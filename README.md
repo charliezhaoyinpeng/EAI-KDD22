@@ -1,4 +1,4 @@
-[![Screenshot of the Website](screenshot.png)]
+[Screenshot of the Website](screenshot.png)
 
 ---
 
