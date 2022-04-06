@@ -93,7 +93,7 @@ td.navigation{font-size:1.67em; white-space:nowrap; width:20%; text-align:center
 
 /* Sponsor Images */
 table.sponsors{width:1000px;}
-td.sponsor{white-space:normal; word-break: break-all; width:65%; text-align:left; vertical-align:middle; padding:0px 0px 0px 0px;}
+td.sponsor{white-space:normal; word-break: break-all; width:65%; text-align:left; vertical-align:middle; padding:0px 0px 0px 10px;}
 td.sponsor img{width: 35%}
 
 /* The Table on the Program Page */
